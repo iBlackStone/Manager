@@ -1,5 +1,4 @@
-twitter: `pencilCool0`
-Email：`yhtangcoder@gmail.com`
+Email：`3327813817@qq.com`
 
 If you have any questions, please leave a message or send me an email.
 
