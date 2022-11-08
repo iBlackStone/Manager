@@ -1,6 +1,6 @@
 ### Privacy Usage Terms
 
-Using this app 《二进制迷笛》（BinaryMIDI） means you agreed with the terms below.
+Using this app 《管家》（Steward） means you agreed with the terms below.
 
 ### What do we collect?
 
@@ -17,7 +17,7 @@ All the data is anonymous. We don't know who takes the action exactly, and all o
 
 ### 隐私使用条款
 
-使用此应用程序 《二进制迷笛》（BinaryMIDI）即表示您同意以下条款。
+使用此应用程序 《管家》（Steward））即表示您同意以下条款。
 
 ### 我们收集什么？
 
@@ -33,7 +33,7 @@ All the data is anonymous. We don't know who takes the action exactly, and all o
 所有数据都是匿名的。 我们不知道具体是采集了谁的行为，所有采集的数据保存在 [AppCenter](https://appcenter.ms/)上
 
 Datenschutz Nutzungsbestimmungen
-Die Nutzung dieser App 《二进制迷笛》（BinaryMIDI） bedeutet, dass Sie mit den nachstehenden Bedingungen einverstanden sind.
+Die Nutzung dieser App 《管家》（Steward） bedeutet, dass Sie mit den nachstehenden Bedingungen einverstanden sind.
 
 - Was sammeln wir?
 - Wir sammeln keine von Ihnen erstellten Inhalte.
@@ -46,7 +46,7 @@ Informationen über den Absturz der App.
 Alle diese Daten sind anonym. Wir wissen nicht, wer die Aktion genau durchführt, und alle Daten werden im AppCenter gespeichert.
 
 個人情報保護方針 利用規約
-本アプリ《二进制迷笛》（BinaryMIDI）のご利用にあたっては、以下の点にご同意の上、ご利用ください。を利用することは、以下の条件に同意したものとみなされます。
+本アプリ《管家》（Steward）のご利用にあたっては、以下の点にご同意の上、ご利用ください。を利用することは、以下の条件に同意したものとみなされます。
 
 - 何を収集するのですか？
 - お客様が作成されたコンテンツは一切収集いたしません。
